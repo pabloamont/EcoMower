@@ -68,7 +68,7 @@
         <wheel_diameter>${wheel_link_radius}</wheel_diameter>
 
         <!-- Limits -->
-        <max_wheel_torque>1000</max_wheel_torque>
+        <max_wheel_torque>200</max_wheel_torque>
         <max_wheel_acceleration>5.0</max_wheel_acceleration>
 
         <!-- Output -->
