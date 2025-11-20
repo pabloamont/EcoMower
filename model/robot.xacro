@@ -2,6 +2,8 @@
 
 <robot name="differential_drive_robot" xmlns:xacro="http://www.ros.org/wiki/xacro">
 
+<!-- Including other files -->
+<xacro:include filename="ultrasounds.xacro" />
 
 <!-- Body Dimensions -->
 <xacro:property name="body_link_x_dim" value="0.5"/>
